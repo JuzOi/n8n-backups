@@ -1,0 +1,31 @@
+{
+  "updatedAt": "2026-01-21T15:30:23.848Z",
+  "createdAt": "2026-01-21T15:30:23.848Z",
+  "id": "-ehPUynxS_ihiytC9_YfT",
+  "name": "projet-dev-avance",
+  "active": false,
+  "isArchived": false,
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1",
+    "availableInMCP": false
+  },
+  "staticData": null,
+  "meta": null,
+  "pinData": {},
+  "versionId": "c1b9c063-b9f9-4ac1-8f35-5b6a7b264da1",
+  "activeVersionId": null,
+  "triggerCount": 0,
+  "shared": [
+    {
+      "updatedAt": "2026-01-21T15:30:23.850Z",
+      "createdAt": "2026-01-21T15:30:23.850Z",
+      "role": "workflow:owner",
+      "workflowId": "-ehPUynxS_ihiytC9_YfT",
+      "projectId": "4xHqJAZbP13ArjJx"
+    }
+  ],
+  "activeVersion": null,
+  "tags": []
+}
